@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="A simple health check endpoint to confirm whether the API is up and running." skipped="0" tests="1" time="3.08" timestamp="2022-04-17 11:42:01"><testcase name="Check API is up and running"/></testsuite>
